@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/bordered_edittext_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/orange" /> <!-- Background color (transparent) -->
+            <corners android:radius="50dp" /> <!-- Rounded corners radius -->
+        </shape>
+    </item>
+</selector>

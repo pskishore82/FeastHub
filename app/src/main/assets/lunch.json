@@ -1,0 +1,78 @@
+{
+  "fooditemslunch": {
+    "lunch": [
+      {
+        "name": "Variety rice ",
+        "description": "mixed rice",
+        "price": "₹ 35.00",
+        "image_url": "https://example.com/burger.jpg"
+      },
+      {
+        "name": "Veg briyani",
+        "description": "Hot and flavorful biriyani",
+        "price": "₹ 40.00",
+        "image_url": "https://example.com/pizza.jpg"
+      },
+      {
+        "name": "Leaf meals",
+        "description": "A fresh and healthy meals.",
+        "price": "₹ 40.00",
+        "image_url": "https://example.com/salad.jpg"
+      },
+      {
+        "name": "Chappathi",
+        "description": "Delicious pasta with your choice of sauce.",
+        "price": "₹ 30.00",
+        "image_url": "https://example.com/pasta.jpg"
+      },
+      {
+        "name": "Parotta",
+        "description": "Fresh sushi rolls with soy sauce.",
+        "price":"₹ 30.00",
+        "image_url": "https://example.com/sushi.jpg"
+      },
+      {
+        "name": "Ceylon lappa",
+        "description": "A juicy steak cooked to perfection.",
+        "price": "₹ 35.00",
+        "image_url": "https://example.com/steak.jpg"
+      },
+      {
+        "name": "Onion lappa ",
+        "description": "Crispy fish tacos with coleslaw.",
+        "price": "₹ 45.00",
+        "image_url": "https://example.com/fish_tacos.jpg"
+      },
+      {
+        "name": "Cheese lappa",
+        "description": "Spicy chicken wings with dipping sauce.",
+        "price": "₹ 55.00",
+        "image_url": "https://example.com/chicken_wings.jpg"
+      },
+      {
+        "name": "Paneer lappa",
+        "description": "Assorted sushi rolls with pickled ginger.",
+        "price":  "₹ 55.00",
+        "image_url": "https://example.com/sushi_rolls.jpg"
+      },
+      {
+        "name": "Gobi lappa",
+        "description": "Classic Caesar salad with croutons.",
+        "price": "₹ 55.00",
+        "image_url": "https://example.com/caesar_salad.jpg"
+      },
+      {
+        "name": "Babycorn lappa",
+        "description": "A hearty burrito filled with beans and meat.",
+        "price": "₹ 55.00",
+        "image_url": "https://example.com/burrito.jpg"
+      },
+      {
+        "name": "Tawa kothu parotta",
+        "description": "Crispy fried chicken pieces with fries.",
+        "price": "₹ 60.00",
+        "image_url": "https://example.com/fried_chicken.jpg"
+      }
+    ]
+  }
+}
